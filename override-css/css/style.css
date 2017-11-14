@@ -1,0 +1,15 @@
+.navbar{
+    border: 3px dotted grey;
+}
+
+.jumbotron{
+    background-color: #c2d7d3;
+}
+
+.panel-body{
+    padding: 30px;
+}
+
+.btn{
+    text-transform: uppercase;
+}
